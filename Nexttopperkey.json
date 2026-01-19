@@ -14,6 +14,13 @@
     "allowOffline": true
   },
   {
+    "id": "bb8b5fa16c947184",
+    "username": "vinaybkv",
+    "password": "8839824349",
+    "expiresAt": "2026-01-30",
+    "allowOffline": false
+  }
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
