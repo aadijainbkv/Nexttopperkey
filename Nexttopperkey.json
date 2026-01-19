@@ -21,6 +21,13 @@
     "allowOffline": true
   },
   {
+    "id": "9193b88a0d836e4d",
+    "username": "parasbkv",
+    "password": "11001100",
+    "expiresAt": "2026-01-21",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
