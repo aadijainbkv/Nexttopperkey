@@ -39,6 +39,12 @@
     "expiresAt": "2026-02-21",
     "allowOffline": true
   },
+  {  "id": "3180e96fe7a1fcca",
+    "username": "samarthbkv",
+    "password": "11001100",
+    "expiresAt": "2026-01-23",
+    "allowOffline": true
+  },
   {
     "id": "android_device_id_2",
     "username": "user2",
