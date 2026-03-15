@@ -10,7 +10,7 @@
     "id": "b471e1225f401417",
     "username": "aadibkv",
     "password": "11001100",
-    "expiresAt": "2026-02-30",
+    "expiresAt": "2026-05-30",
     "allowOffline": true
   },
   {
@@ -18,6 +18,13 @@
     "username": "vinaybkv",
     "password": "8839824349",
     "expiresAt": "2026-01-30",
+    "allowOffline": true
+  },
+  {
+    "id": "6841cfb2f76890f0",
+    "username": "khushi",
+    "password": "beluga00",
+    "expiresAt": "2026-10-30",
     "allowOffline": true
   },
   {
